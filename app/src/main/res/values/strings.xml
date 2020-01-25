@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">TukTuk</string>
+    <string name="hintname">Mobile number</string>
+    <string name="hintpsd">Password</string>
+    <string name="signup"><u>Don\'t have an account? Sign Up</u></string>
+    <string name="name">Name</string>
+    <string name="number">Mobile number</string>
+    <string name="psd">Enter password</string>
+    <string name="cpsd">Confirm password</string>
+    <string name="signupbtn">Sign up</string>
+    <string name="loginlink"><u>Login link</u></string>
+    <string name="varification">Get verification code</string>
+    <string name="entermail">Email</string>
+    <string name="go">Let\'s go!!</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="logout">Logout</string>
+    <string name="acc">Account</string>
+    <string name="share">Share</string>
+    <string name="contact">Contact us</string>
+    <string name="otp"><u>Enter OTP</u></string>
+    <string name="contactname">ContactName</string>
+    <string name="book_a_ride">Book a Ride</string>
+    <string name="D1">DRIVER 1</string>
+</resources>

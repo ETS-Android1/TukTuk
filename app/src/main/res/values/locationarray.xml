@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string-array name="pitems">
+            <item>---Select Location---</item>
+            <item>PLACE 1</item>
+            <item>PLACE 2</item>
+            <item>PLACE 3</item>
+            <item>PLACE 4</item>
+            <item>PLACE 5</item>
+            <item>PLACE 6</item>
+            <item>PLACE 7</item>
+            <item>PLACE 8</item>
+            <item>PLACE 9</item>
+            <item>PLACE 10</item>
+        </string-array>
+
+    <string-array name="ditems">
+        <item>---Select Location---</item>
+        <item>PLACE 1</item>
+        <item>PLACE 2</item>
+        <item>PLACE 3</item>
+        <item>PLACE 4</item>
+        <item>PLACE 5</item>
+        <item>PLACE 6</item>
+        <item>PLACE 7</item>
+        <item>PLACE 8</item>
+        <item>PLACE 9</item>
+        <item>PLACE 10</item>
+    </string-array>
+</resources>

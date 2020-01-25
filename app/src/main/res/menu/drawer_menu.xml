@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/account"
+            android:fontFamily="@font/convergence"
+            android:icon="@drawable/ic_account"
+            android:title="@string/acc"></item>
+        <item
+            android:id="@+id/logout"
+            android:fontFamily="@font/convergence"
+            android:icon="@drawable/ic_logout"
+            android:title="@string/logout"></item>
+            <item
+                android:id="@+id/share"
+                android:fontFamily="@font/convergence"
+                android:icon="@drawable/ic_share"
+                android:title="@string/share"></item>
+            <item
+                android:id="@+id/contact"
+                android:fontFamily="@font/convergence"
+                android:icon="@drawable/ic_contactmail"
+                android:title="@string/contact"></item>
+    </group>
+</menu>

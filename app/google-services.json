@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "528231785440",
+    "firebase_url": "https://tuktuk-b5715.firebaseio.com",
+    "project_id": "tuktuk-b5715",
+    "storage_bucket": "tuktuk-b5715.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528231785440:android:858a4a5862e331ea",
+        "android_client_info": {
+          "package_name": "com.ndkapp.www.tuktuk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528231785440-hl5c4nu39bgoajjffc6oudjkkiudbqia.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ndkapp.www.tuktuk",
+            "certificate_hash": "42acd8fca348efcb9327ba2264fc8423f88eea47"
+          }
+        },
+        {
+          "client_id": "528231785440-bt683uc0lr00hati6jrv6gh5089pb8me.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKFY12MQ7RXNxdLgYLk77boidImNpp4B4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528231785440-bt683uc0lr00hati6jrv6gh5089pb8me.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
