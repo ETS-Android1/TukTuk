@@ -9,3 +9,9 @@ App Flow :-
 4. OTP verification 
 5. Permission for Text messaging
 6. Dispalying info ride and driver and Call permission
+
+Implementation screenshots :-
+
+1. Splash Screen
+
+![splash screen]()
